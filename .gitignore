@@ -1,0 +1,8 @@
+# Ignore extracted data
+archive/
+
+# Ignore dataset explicitly (extra safety)
+creditcard.csv
+
+# Keep the zip
+!archive.zip
