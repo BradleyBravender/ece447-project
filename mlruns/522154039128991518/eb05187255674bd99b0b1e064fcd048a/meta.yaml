@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brad/BradleyFolder/school/7_sem/ece447/ece447-project/mlruns/522154039128991518/eb05187255674bd99b0b1e064fcd048a/artifacts
+end_time: 1777068392232
+entry_point_name: ''
+experiment_id: '522154039128991518'
+lifecycle_stage: active
+run_id: eb05187255674bd99b0b1e064fcd048a
+run_name: Autoencoder_q0.97
+run_uuid: eb05187255674bd99b0b1e064fcd048a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777068389034
+status: 3
+tags: []
+user_id: brad

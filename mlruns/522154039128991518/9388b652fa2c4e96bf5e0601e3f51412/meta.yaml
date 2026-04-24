@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brad/BradleyFolder/school/7_sem/ece447/ece447-project/mlruns/522154039128991518/9388b652fa2c4e96bf5e0601e3f51412/artifacts
+end_time: 1777068473967
+entry_point_name: ''
+experiment_id: '522154039128991518'
+lifecycle_stage: active
+run_id: 9388b652fa2c4e96bf5e0601e3f51412
+run_name: Isolated Forest Evaluation_evaluation
+run_uuid: 9388b652fa2c4e96bf5e0601e3f51412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777068473424
+status: 3
+tags: []
+user_id: brad

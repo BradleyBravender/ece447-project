@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brad/BradleyFolder/school/7_sem/ece447/ece447-project/mlruns/522154039128991518/3c43d61c4290444f9908c6c53c602d4d/artifacts
+end_time: 1777068472867
+entry_point_name: ''
+experiment_id: '522154039128991518'
+lifecycle_stage: active
+run_id: 3c43d61c4290444f9908c6c53c602d4d
+run_name: Moving Average Evaluation_evaluation
+run_uuid: 3c43d61c4290444f9908c6c53c602d4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777068472268
+status: 3
+tags: []
+user_id: brad

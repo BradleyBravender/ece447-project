@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brad/BradleyFolder/school/7_sem/ece447/ece447-project/mlruns/522154039128991518/b215b7c10d8f4eb691ff62bc6cc5bbae/artifacts
+end_time: 1777068384751
+entry_point_name: ''
+experiment_id: '522154039128991518'
+lifecycle_stage: active
+run_id: b215b7c10d8f4eb691ff62bc6cc5bbae
+run_name: IsolationForest_c0.05
+run_uuid: b215b7c10d8f4eb691ff62bc6cc5bbae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777068384522
+status: 3
+tags: []
+user_id: brad
