@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brad/BradleyFolder/school/7_sem/ece447/ece447-project/mlruns/522154039128991518/5b3b7489001342149da2ea49ab8b6a3e/artifacts
+end_time: 1777067270894
+entry_point_name: ''
+experiment_id: '522154039128991518'
+lifecycle_stage: active
+run_id: 5b3b7489001342149da2ea49ab8b6a3e
+run_name: kNN_k20_q0.975
+run_uuid: 5b3b7489001342149da2ea49ab8b6a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777067270463
+status: 3
+tags: []
+user_id: brad
